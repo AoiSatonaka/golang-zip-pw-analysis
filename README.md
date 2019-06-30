@@ -2,4 +2,4 @@
 
 ## how to
 
-- `go run main.go sample04.zip`
+- `go run main.go 対象ファイルパス（相対パス可）`
